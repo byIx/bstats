@@ -1,1 +1,1 @@
-{ "version":"1.0.1", "longversion":10001, "released":1629578442, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2492-customize-admin-login-page\/" }
+{ "version":"1.1.0", "longversion":11000, "released":1642269600, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2492-customize-admin-login-page\/" }
