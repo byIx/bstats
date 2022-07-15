@@ -1,1 +1,1 @@
-{ "version":"1.1.0", "longversion":11000, "released":1642269600, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2499-better-statistics\/" }
+{ "version":"2.0.0", "longversion":20000, "released":1657922400, "updateurl":"https:\/\/ipbmafia.ru\/files\/file\/2499-k4-global-statistics\/" }
